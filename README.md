@@ -1,4 +1,4 @@
-# README get-patches.go #
+# get-patches.go #
 
 List of patches should be there in patch-list.txt before running. Patches should be separated by newlines. Last patch should be followed by a new line.
 
