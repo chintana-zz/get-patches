@@ -6,8 +6,8 @@ Script download and copy patches to zip folder
 
 Make sure you have following,
 
-$ go get golang.org/x/crypto/ssh/terminal
-$ go get golang.org/x/net/html
+<code>$ go get golang.org/x/crypto/ssh/terminal</code><br/>
+<code>$ go get golang.org/x/net/html</code>
 
 Then do
 
